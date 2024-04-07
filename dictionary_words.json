@@ -1,0 +1,8 @@
+{
+    "'title': 'Run Time'": "'title': 'Temps d exécution'",
+    "'title': 'Run Name'": "'title': 'Nom de l exécution'",
+    "'title': 'Asset Name'": "'title': 'Jeu de données'",
+    "'title': 'Batch ID'": "'title': 'ID du batch'",
+    "{'field': 'expectation_suite_name', 'title': 'Expectation Suites', 'sortable': 'true'}": "{'field': 'expectation_suite_name', 'title': 'Règles', 'sortable': 'true'}",
+    "{'field': 'validation_success', 'title': 'Status', 'sortable': 'true', 'align': 'center', 'filterControl': 'select', 'filterDataCollector': 'validationSuccessFilterDataCollector'}": "{'field': 'validation_success', 'title': 'État', 'sortable': 'true', 'align': 'center', 'filterControl': 'input', 'filterDataCollector': 'validationSuccessFilterDataCollector'}"
+}
